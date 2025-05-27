@@ -1,0 +1,23 @@
+<!-- res/values/themes.xml -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.AppCentral" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/onSurface</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="backgroundColor">@color/background</item>
+        <item name="colorOnBackground">@color/onBackground</item>
+    </style>
+    <!-- res/values/themes.xml -->
+    <style name="Theme.AppCentral.Transparent" parent="Theme.AppCentral"> <!-- Or your base theme -->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item> <!-- Can help, but be careful with full screen -->
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="Theme.AppCentral" parent="Base.Theme.AppCentral" />
+</resources>

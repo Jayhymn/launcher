@@ -1,0 +1,8 @@
+<resources>
+    <color name="primary">#8BC34A</color> <!-- Light Green -->
+    <color name="onPrimary">#FFFFFF</color> <!-- White text on green -->
+    <color name="background">#FFFFFF</color>
+    <color name="onBackground">#000000</color>
+    <color name="surface">#F5F5F5</color>
+    <color name="onSurface">#000000</color>
+</resources>
