@@ -42,12 +42,11 @@ Key features and functionalities of App Central:
 -   **Verbose Logging:** Implemented throughout the application for easier debugging and understanding the flow.
 
 ### Screenshots
-![Welcome Onboarding](screenshots/Onboarding_Step1_Welcome.png)
-![Guidance Onboarding](Onboarding_Step2_Guidance.png)
-![Systens Home Chooser](screenshots/System_Default_Home_Chooser.png)
-
-![Thank you Onboarding](screenshots/Onboarding_Step3_ThankYou.png)
-![Home Activity](screenshots/Home_Activity_Empty.png)
+![Welcome Onboarding](app/screenshots/Onboarding_Step1_Welcome.png)
+![Guidance Onboarding](app/Onboarding_Step2_Guidance.png)
+![Systens Home Chooser](app/screenshots/System_Default_Home_Chooser.png)
+![Thank you Onboarding](app/screenshots/Onboarding_Step3_ThankYou.png)
+![Home Activity](app/screenshots/Home_Activity_Empty.png)
 
 ## Technologies Used
 
