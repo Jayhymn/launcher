@@ -41,13 +41,13 @@ Key features and functionalities of App Central:
 -   **Seamless Onboarding Flow:** Ensures the user remains in the onboarding activity until completion, even when interacting with system dialogs.
 -   **Verbose Logging:** Implemented throughout the application for easier debugging and understanding the flow.
 
-## Screenshots (Conceptual)
+### Screenshots
+![Welcome Onboarding](screenshots/Onboarding_Step1_Welcome.png)
+![Guidance Onboarding](Onboarding_Step2_Guidance.png)
+![Systens Home Chooser](screenshots/System_Default_Home_Chooser.png)
 
--   `screenshots/Onboarding_Step1_Welcome.png`: Shows the initial welcome screen of the onboarding flow.
--   `screenshots/Onboarding_Step2_Guidance.png`: Shows the screen guiding the user to set the app as default.
--   `screenshots/System_Default_Home_Chooser.png`: (Illustrative) The Android system dialog for choosing a default home app.
--   `screenshots/Onboarding_Step3_ThankYou.png`: Shows the final thank you screen of the onboarding flow.
--   `screenshots/Home_Activity_Empty.png`: Shows the basic home activity screen after setup.
+![Thank you Onboarding](screenshots/Onboarding_Step3_ThankYou.png)
+![Home Activity](screenshots/Home_Activity_Empty.png)
 
 ## Technologies Used
 
