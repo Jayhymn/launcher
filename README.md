@@ -43,7 +43,7 @@ Key features and functionalities of App Central:
 
 ### Screenshots
 ![Welcome Onboarding](app/screenshots/Onboarding_Step1_Welcome.png)
-![Guidance Onboarding](app/Onboarding_Step2_Guidance.png)
+![Guidance Onboarding](app/screenshots/Onboarding_Step2_Guidance.png)
 ![Systens Home Chooser](app/screenshots/System_Default_Home_Chooser.png)
 ![Thank you Onboarding](app/screenshots/Onboarding_Step3_ThankYou.png)
 ![Home Activity](app/screenshots/Home_Activity_Empty.png)
