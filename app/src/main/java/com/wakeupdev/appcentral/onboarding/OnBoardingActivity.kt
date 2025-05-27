@@ -51,11 +51,4 @@ class OnboardingActivity : AppCompatActivity() {
             .replace(R.id.fragment_container, fragment)
             .commit()
     }
-
-    override fun onBackPressed() {
-        // As per requirements, user can only go forward.
-        // super.onBackPressed() // Comment out to disable back press
-        Log.i(TAG, "Back press disabled during onboarding.")
-        // moveTaskToBack(true)
-    }
 }
