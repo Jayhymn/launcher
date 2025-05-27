@@ -126,19 +126,6 @@ The application is designed to manage the following edge cases:
 ## Contributing
 
 While this is primarily an exercise project, contributions or suggestions are welcome! Please feel free to submit a pull request or create an issue for feedback and suggestions if this were a collaborative project. For this exercise, focus on fulfilling the requirements.
-
-## License
-
-This project is typically licensed under the MIT License. You can create a `LICENSE` file with the MIT License text or choose another appropriate open-source license.
-See the `LICENSE` file (you'll need to create this, e.g., `[LICENSE](LICENSE)`) for details.
-
 ---
 
-Thank you for checking out App Central! If this were a public project and you encountered any issues or have suggestions, you would [create an issue](https://github.com/your-username/app-central/issues) (replace with your actual repo URL).
-
-**Remember to:**
-
-1.  Replace `https://github.com/jayhymn/app-central.git` and `https://github.com/your-username/app-central/issues` with your actual GitHub repository URL.
-2.  Create a `LICENSE` file (e.g., with the MIT license text).
-3.  Add actual screenshots to a `screenshots/` directory and update the paths in the README if you decide to include them.
-4.  Review and adjust any details to perfectly match your final implementation.
+Thank you for checking out App Central! If this were a public project and you encountered any issues or have suggestions, you would [create an issue](https://github.com/jayhymn/app-central/issues) (replace with your actual repo URL).
